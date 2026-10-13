@@ -11,9 +11,12 @@ Each simulator is a single HTML file. It needs no installation, no server and no
 
 Both open on a poor design. The task for the student is to make it work.
 
-**Try them online:** once GitHub Pages is switched on for this repository (see `docs/BruinLearn_embedding.md`), the apps are served at
-`https://<username>.github.io/<repository>/StreetCanyonSimulator.html` and
-`https://<username>.github.io/<repository>/PassiveBuildingSimulator.html`, with a landing page at `https://<username>.github.io/<repository>/`.
+**Try them online** (GitHub Pages):
+- Landing page: https://salmaancraig-star.github.io/building-climates-simulators/
+- Street Canyon Simulator: https://salmaancraig-star.github.io/building-climates-simulators/StreetCanyonSimulator.html
+- Passive Building Simulator: https://salmaancraig-star.github.io/building-climates-simulators/PassiveBuildingSimulator.html
+
+Hosting and embedding notes for Canvas/BruinLearn are in `docs/BruinLearn_embedding.md`.
 
 ## Folder contents
 

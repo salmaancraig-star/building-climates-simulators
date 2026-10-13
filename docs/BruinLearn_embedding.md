@@ -12,17 +12,18 @@ Canvas strips `<script>` tags from page content, so the apps cannot be pasted in
 
 ## Option A — GitHub Pages (simplest; already set up by the author)
 
-The repository is published with GitHub Pages, so each app has a stable public URL:
+The repository (https://github.com/salmaancraig-star/building-climates-simulators) is published with GitHub Pages, so each app has a stable public URL:
 
 ```
-https://<username>.github.io/<repository>/StreetCanyonSimulator.html
-https://<username>.github.io/<repository>/PassiveBuildingSimulator.html
+https://salmaancraig-star.github.io/building-climates-simulators/
+https://salmaancraig-star.github.io/building-climates-simulators/StreetCanyonSimulator.html
+https://salmaancraig-star.github.io/building-climates-simulators/PassiveBuildingSimulator.html
 ```
 
 To embed in a Canvas page: edit the page → switch the Rich Content Editor to the **HTML editor** (the `</>` icon) → paste:
 
 ```html
-<iframe src="https://<username>.github.io/<repository>/PassiveBuildingSimulator.html"
+<iframe src="https://salmaancraig-star.github.io/building-climates-simulators/PassiveBuildingSimulator.html"
         width="100%" height="1400" style="border:0" title="Passive Building Simulator"
         allowfullscreen></iframe>
 ```
