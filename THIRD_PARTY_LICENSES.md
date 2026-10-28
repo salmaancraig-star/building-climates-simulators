@@ -1,6 +1,8 @@
 # Third-party licences
 
-Both HTML apps embed **Chart.js v4.4.7** (https://www.chartjs.org), used under the MIT licence reproduced below. No other third-party code is included; the models themselves are original.
+All three HTML apps embed **Chart.js v4.4.7** (https://www.chartjs.org), used under the MIT licence reproduced below. No other third-party code is included; the models themselves are original.
+
+**Weather data.** `ComfortRatchetSimulator.html` embeds hourly dry-bulb temperature and solar irradiance from two TMYx typical-meteorological-year files — `USA_CA_Los.Angeles.Downtown-USC.Campus.722874_TMYx.2009-2023` and `COL_ANT_Medellin-Olaya.Herrera.AP.801100_TMYx.2009-2023` — published by climate.onebuilding.org (Dru Crawley and Linda Lawrie), derived from ISD/NOAA observations and provided free of charge for use with attribution: "Climate data from climate.onebuilding.org, used with permission."
 
 ---
 
